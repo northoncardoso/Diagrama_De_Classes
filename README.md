@@ -1,1 +1,3 @@
 # Diagrama_De_Classes
+
+Preciso ter mais imaginação, só acho...
